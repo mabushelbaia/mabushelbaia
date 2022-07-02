@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/mabushelbaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=github_dark&show_icons=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=github_dark&langs_count=8"/>
-  <img height="180em" src="(https://leetcode-stats-six.vercel.app/api?username=mabushelbaia&theme=dark"/>
+  <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=mabushelbaia&theme=dark"/>
 </a>
 </p>
