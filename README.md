@@ -10,8 +10,9 @@ class mabushelbaia():
     def __init__(self):
         self.name      = "Mohammad Abu-Shelbaia"
         self.editor    = "Visual Studio Code"
-        self.languges  = ["Python", "CPP", "C", "Java", "Bash"]
         self.contact   = "mabushelbaia@gmail.com"
+        self.languges  = ["Python", "CPP", "C", "Java", "Bash"]
+
 
     def __str__(self):
        return self.name + self.contact
