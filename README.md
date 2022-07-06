@@ -4,15 +4,14 @@
 
 
 
-<p>
-  <img src=https://komarev.com/ghpvc/?username =mabushelbaia/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+```python
+class mabushelbaia:
+  def __init__:
+    self.name = "Mohammad Abu-Shelbaia"
+    self.languges = ["Python", "CPP", "C", "Java", "Bash"]
+    self.editor = "Visual Studio Code"
+  
+```
 
 ## ⚙️ Github Statistics
 <p align="center">
