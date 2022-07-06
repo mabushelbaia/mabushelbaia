@@ -21,8 +21,8 @@ class Mabushelbaia():
 ## ⚙️ Github Statistics
 <p align="center">
 <a href="https://github.com/mabushelbaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=dark &show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=dark &langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=dark&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=dark&langs_count=8"/>
 </a>
 </p>
 
