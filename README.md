@@ -5,7 +5,7 @@
 
 
 ```py
-class mabushelbaia():
+class Mabushelbaia():
 
     def __init__(self):
         self.name      = "Mohammad Abu-Shelbaia"
