@@ -17,8 +17,10 @@ class Mabushelbaia():
     def __str__(self):
        return self.name + self.contact
 ```
+<h1 align="center">
+  <b>⚙️ Github Statistics</b>
+</h1>
 
-## ⚙️ Github Statistics
 <p align="center">
 <a href="https://github.com/mabushelbaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=true"/>
