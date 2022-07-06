@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⚙️ Github Statistics
+## ⚙️ Github Statistics
 <p align="center">
 <a href="https://github.com/mabushelbaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=github_dark&show_icons=true&include_all_commits=true"/>
