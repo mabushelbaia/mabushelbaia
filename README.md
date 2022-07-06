@@ -4,7 +4,7 @@
 
 
 
-```bash
+```py
 class mabushelbaia():
 
   def __init__(self):
