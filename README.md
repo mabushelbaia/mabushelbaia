@@ -18,7 +18,7 @@ class Mabushelbaia():
        return self.name + self.contact
 ```
 <h1 align="center">
-  <b>⚙️ Github Statistics</b>
+  <b>Personal Statistics</b>
 </h1>
 
 <p align="center">
