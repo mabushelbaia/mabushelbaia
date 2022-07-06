@@ -11,7 +11,7 @@ class Mabushelbaia():
         self.name      = "Mohammad Abu-Shelbaia"
         self.editor    = "Visual Studio Code"
         self.contact   = "mabushelbaia@gmail.com"
-        self.languges  = ["Python", "CPP", "C", "Java", "Bash"]
+        self.languges  = ["Python", "C++", "C", "Java", "Bash"]
 
 
     def __str__(self):
@@ -21,8 +21,8 @@ class Mabushelbaia():
 ## ⚙️ Github Statistics
 <p align="center">
 <a href="https://github.com/mabushelbaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=dark&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=tokyonight&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=tokyonight&langs_count=8"/>
 </a>
 </p>
 
