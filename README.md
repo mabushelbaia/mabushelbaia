@@ -5,12 +5,12 @@
 
 
 ```python
-class mabushelbaia:
-  def __init__:
+class mabushelbaia():
+
+  def __init__(self):
     self.name = "Mohammad Abu-Shelbaia"
     self.languges = ["Python", "CPP", "C", "Java", "Bash"]
     self.editor = "Visual Studio Code"
-  
 ```
 
 ## ⚙️ Github Statistics
