@@ -23,7 +23,7 @@ class Mabushelbaia():
 
 <p align="center">
 <a href="https://github.com/mabushelbaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=true&bg_color=#171515"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=8"/>
 </a>
 </p>
