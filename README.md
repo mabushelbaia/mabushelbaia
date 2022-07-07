@@ -11,7 +11,7 @@ class Mabushelbaia():
         self.name      = "Mohammad Abu-Shelbaia"
         self.editor    = "Visual Studio Code"
         self.contact   = "mabushelbaia@gmail.com"
-        self.languges  = ["Python", "C++", "C", "Java", "Bash"]
+        self.languges  = ["Python", "C++", "C", "Java", "Shell", "Arm Assembly"]
 
 
     def __str__(self):
