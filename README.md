@@ -15,7 +15,7 @@ class Mabushelbaia():
 
 
     def __str__(self):
-       return self.name + self.contact
+       return " ".join([self.name, self.contact])
 ```
 <h1 align="center">
   <b>Personal Statistics</b>
