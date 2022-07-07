@@ -18,7 +18,7 @@ class Mabushelbaia():
        return " ".join([self.name, self.contact])
 ```
 <h1 align="center">
-  <b>Personal Statistics</b>
+  <b>Github Statistics</b>
 </h1>
 
 <p align="center">
