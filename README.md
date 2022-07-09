@@ -27,7 +27,5 @@ class Mabushelbaia():
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
 </p>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/mabushelbaia/count.svg"></img>
-</div>
+
 
