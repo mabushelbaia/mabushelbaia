@@ -21,17 +21,17 @@ class Mabushelbaia():
   <b>Github Statistics</b>
 </h1>
   <a href="https://github.com/mabushelbaia">
-      <picture>
+      <picture align="center" >
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=false&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=light&show_icons=true&include_all_commits=false&hide_border=true">
-          <img align="center" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+          <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
       </picture>
   </a>
   <a href="https://github.com/mabushelbaia">
-      <picture>
+      <picture align="center" >
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=light&langs_count=10&hide_border=true">
-          <img align="center" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+          <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
       </picture>
   </a>
 
