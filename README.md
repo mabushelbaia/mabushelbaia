@@ -13,9 +13,9 @@ class Mabushelbaia():
         self.contact   = "mabushelbaia@gmail.com"
         self.languges  = ["Python", "C++", "C", "Java", "Shell", "Arm Assembly"]
 
-
     def __str__(self):
        return " ".join([self.name, self.contact])
+       
 ```
 <h1 align="center">
   <b>Github Statistics</b>
