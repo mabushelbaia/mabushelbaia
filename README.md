@@ -6,7 +6,6 @@
 
 ```py
 class Mabushelbaia():
-
     def __init__(self):
         self.name      = "Mohammad Abu-Shelbaia"
         self.editor    = "Visual Studio Code"
