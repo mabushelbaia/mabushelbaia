@@ -16,10 +16,11 @@ class Mabushelbaia():
        return " ".join([self.name, self.contact])
        
 ```
+<!-- 
 <h1 align="center">
   <b>Github Statistics</b>
 </h1>
-
+ -->
 <p align="center">
 <a href="https://github.com/mabushelbaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=false&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff#gh-dark-mode-only"/>
