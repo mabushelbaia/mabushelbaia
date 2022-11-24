@@ -13,7 +13,7 @@ class Mabushelbaia():
         self.languges  = ["Python", "C++", "C", "Java", "Shell", "Arm Assembly", "Verilog"]
 
     def __str__(self):
-       return " ".join([self.name, self.contact])
+       return f"{self.name} {self.contact}"
        
 ```
 <!-- 
