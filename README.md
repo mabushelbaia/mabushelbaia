@@ -27,4 +27,3 @@ class Mabushelbaia:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6ef&icon_color=58a6ef&cache_seconds=72122&exclude_repo=TM4C123G"/>
 </a>
 </p>
-``` PS: Python is my most used language, but this widget
