@@ -4,10 +4,6 @@
 
 
 
-```py
-
-       
-```
 <!-- 
 <h1 align="center">
   <b>Github Statistics</b>
