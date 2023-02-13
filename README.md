@@ -5,15 +5,7 @@
 
 
 ```py
-class Mabushelbaia:
-    def __init__(self):
-        self.name      = "Mohammad Abu-Shelbaia"
-        self.editor    = "Visual Studio Code"
-        self.contact   = "mabushelbaia@gmail.com"
-        self.languges  = ["Python", "C++", "C", "Java", "Shell", "Arm Assembly", "Verilog"]
 
-    def __str__(self):
-       return " ".join([self.name, self.contact])
        
 ```
 <!-- 
