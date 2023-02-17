@@ -2,7 +2,7 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 
-
+![](https://komarev.com/ghpvc/?username=mabushelbaia&style=for-the-badge)
 
 <!-- 
 <h1 align="center">
