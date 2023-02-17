@@ -2,15 +2,9 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 <div id="badges" align="center">
-  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a src="https://github.com/mabushelbaia">
+    <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github&style=for-the-badge"/>
     <img src="https://komarev.com/ghpvc/?username=mabushelbaia&style=for-the-badge">
-  </a>
 </div>
 
 
