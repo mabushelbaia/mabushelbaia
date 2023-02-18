@@ -1,11 +1,6 @@
 <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
-<div id="badges" align="center">
-    <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
-    <img src="https://img.shields.io/github/stars/mabushelbaia"/>
-    <img src="https://komarev.com/ghpvc/?username=mabushelbaia">
-</div>
 
 
 <!-- 
@@ -19,3 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6ef&icon_color=58a6ef&cache_seconds=7211222&exclude_repo=TM4C123G"/>
 </a>
 </p>
+<div id="badges" align="center">
+    <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
+    <img src="https://img.shields.io/github/stars/mabushelbaia"/>
+    <img src="https://komarev.com/ghpvc/?username=mabushelbaia">
+</div>
