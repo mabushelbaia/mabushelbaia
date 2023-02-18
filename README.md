@@ -2,7 +2,7 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 <p align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=github_dark&title_color=58a6ef&icon_color=58a6ef&hide_border=true&cache_seconds=12412"
