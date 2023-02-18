@@ -18,10 +18,9 @@
       srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=light&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=108em, src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img height=108em, src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=light&hide_border=true&cache_seconds=12412 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"/>
+  
 </p>
 <div id="badges" align="center">
     <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
