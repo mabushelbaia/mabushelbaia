@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <picture>
+  <picture style="height=180em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=github_dark&title_color=58a6ef&icon_color=58a6ef&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: dark)"
@@ -13,9 +13,9 @@
       srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=defualt&title_color=58a6ef&icon_color=58a6ef&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img style="height=180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
-    <picture>
+    <picture style="height=180em" >
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=github_dark&langs_count=10&title_color=58a6ef&icon_color=58a6ef&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
       media="(prefers-color-scheme: dark)"
@@ -28,12 +28,6 @@
   </picture>
 </p>
 
-<p align="center">
-<a href="https://github.com/mabushelbaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&theme=react&show_icons=true&include_all_commits=true&bg_color=0d1117&hide_border=true&title_color=58a6ef&icon_color=58a6ef&cache_seconds=12412"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=react&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6ef&icon_color=58a6ef&cache_seconds=7211222&exclude_repo=TM4C123G"/>
-</a>
-</p>
 <div id="badges" align="center">
     <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
     <img src="https://img.shields.io/github/stars/mabushelbaia"/>
