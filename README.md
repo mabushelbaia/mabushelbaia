@@ -2,9 +2,9 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/mabushelbaia?style=for-the-badge"/>
-    <img src="https://komarev.com/ghpvc/?username=mabushelbaia&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
+    <img src="https://img.shields.io/github/stars/mabushelbaia"/>
+    <img src="https://komarev.com/ghpvc/?username=mabushelbaia">
 </div>
 
 
