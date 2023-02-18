@@ -20,7 +20,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height=108em
     />
-    <img height=108em, src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
+    <img height="108em", src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
   
 </p>
