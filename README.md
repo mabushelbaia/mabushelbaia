@@ -9,22 +9,22 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=dark&hide_border=true&cache_seconds=12412"
+      srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=vue-dark&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=light&hide_border=true&cache_seconds=12412"
+      srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=vue&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img class="stats-img" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
     <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=vue&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=vue-dark&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img class="stats-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=TM4C123G" />
