@@ -9,7 +9,7 @@
 </h1>
  -->
 <p align="center">
-  <picture>
+  <picture height="108em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=dark&hide_border=true&cache_seconds=12412"
       media="(prefers-color-scheme: dark)"
@@ -20,9 +20,19 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height=108em
     />
-    <img height="108em", src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
-  
+    <picture height="108em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&theme=vue&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="108em", src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=TM4C123G" />
+  </picture>
 </p>
 <div id="badges" align="center">
     <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github"/>
