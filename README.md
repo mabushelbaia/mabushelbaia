@@ -2,7 +2,6 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 <p align="center">
-  <div>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&bg_color=00000000&theme=github_dark&title_color=58a6ef&icon_color=58a6ef&hide_border=true&cache_seconds=12412"
@@ -22,7 +21,6 @@
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=TM4C123G" />
     </picture>
-  </div>
 </p>
 
 
