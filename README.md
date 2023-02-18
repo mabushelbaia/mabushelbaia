@@ -2,12 +2,10 @@
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
 
+.stats-img {
+  height: 108em;
+}
 
-<!-- 
-<h1 align="center">
-  <b>Github Statistics</b>
-</h1>
- -->
 <p align="center">
   <picture>
     <source 
@@ -20,7 +18,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height=108em
     />
-    <img height="108em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
+    <img class="stats-img" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
   </picture>
     <picture>
     <source 
@@ -31,7 +29,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true&cache_seconds=7211222&exclude_repo=TM4C123G"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="108em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=TM4C123G" />
+    <img class="stats-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=TM4C123G" />
   </picture>
 </p>
 <div id="badges" align="center">
