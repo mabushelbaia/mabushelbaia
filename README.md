@@ -23,11 +23,3 @@
     </picture>
 </p>
 
-
-
-<div id="badges" align="center">
-  <img src="https://img.shields.io/github/followers/mabushelbaia?logo=github" />
-  <img src="https://img.shields.io/github/stars/mabushelbaia" />
-  <img src="https://komarev.com/ghpvc/?username=mabushelbaia">
-</div>
-
