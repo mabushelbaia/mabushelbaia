@@ -9,11 +9,6 @@
   <img src="https://visitcount.itsvg.in/api?id=mabushelbaia&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a> -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,linux,vscode,bash,md" />
-  </a>
-</p>
 
 
 
@@ -48,3 +43,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&exclude_repo=DSP-Assignment" />
     </picture>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,python,linux,vscode,bash,md" />
+  </a>
+</p>
+
