@@ -1,9 +1,9 @@
 <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mabushelbaia&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
+</a> -->
 <p align="center">
     <picture>
       <source
