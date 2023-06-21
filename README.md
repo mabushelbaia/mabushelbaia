@@ -7,6 +7,7 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=c,python,shell,bash)](https://skillicons.dev)
 
 
 
@@ -19,8 +20,7 @@
 
 
 
-
-
+<!-- BADGES -->
 <p align="center">
     <picture>
       <source
