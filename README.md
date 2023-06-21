@@ -7,7 +7,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,md,c,python,bash)](https://skillicons.dev)
 
 
 
