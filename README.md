@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/82/87/92/8287924990350948e69f1ee43232eafe.gif" height="200", width="932">
+  <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" height="250", width="932">
 </p>
 <!-- <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
