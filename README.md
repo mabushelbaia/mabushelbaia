@@ -1,6 +1,7 @@
 <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1>
+[![](https://visitcount.itsvg.in/api?id=mabushelbaia&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <p align="center">
     <picture>
       <source
