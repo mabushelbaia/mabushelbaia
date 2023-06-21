@@ -5,9 +5,11 @@
   <img src="https://visitcount.itsvg.in/api?id=mabushelbaia&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a> -->
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,git,md,c,python,bash)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,md,c,python,bash" />
+  </a>
+</p>
 
 
 
