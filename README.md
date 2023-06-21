@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/mabushelbaia/mabushelbaia/blob/main/banners/banner_6.png">
+  <img src="https://github.com/mabushelbaia/mabushelbaia/blob/main/banners/banner_5.png">
 </p>
 <!-- <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
