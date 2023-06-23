@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" height="250", width="932">
+  <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" height="250">
 </p>
 <!-- <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
