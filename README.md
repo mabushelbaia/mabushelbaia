@@ -1,7 +1,8 @@
+<!-- 
 <p align="center">
   <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="932" height="200">
 </p>
-<!-- <h1 align="center">
+<h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
 </h1> -->
 <!-- <a href="https://visitcount.itsvg.in">
