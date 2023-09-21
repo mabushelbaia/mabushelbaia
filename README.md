@@ -6,7 +6,7 @@
 <!-- BADGES -->
 <h1 align="center">
   <b> مُحَمَّــد أبو شِلبايَة 👋</b>
-</h1> -->
+</h1>
 <p align="center">
     <picture>
       <source
