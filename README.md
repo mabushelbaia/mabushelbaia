@@ -1,12 +1,11 @@
+![image](https://github.com/mabushelbaia/mabushelbaia/assets/47891125/2073b986-c690-4ea8-8f3e-b9a9c4c66b98)
 <!-- 
 <p align="center">
   <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="932" height="200">
 </p>
+![Uploading image.png…]()
 
 <!-- BADGES -->
-<h1 align="center">
-  <b> مُحَمَّــد أبو شِلبايَة 👋</b>
-</h1>
 <p align="center">
     <picture>
       <source
@@ -33,6 +32,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,linux,vscode,bash,md" />
+    <img src="https://skillicons.dev/icons?i=git,c,python,linux,vscode,bash,md, tailwind, js, java, bots, github&perline=5" />
   </a>
 </p>
