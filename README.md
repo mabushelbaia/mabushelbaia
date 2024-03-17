@@ -1,3 +1,4 @@
+<!-- 
 ![image](https://github.com/mabushelbaia/mabushelbaia/assets/47891125/2073b986-c690-4ea8-8f3e-b9a9c4c66b98)
 <!-- 
 <p align="center">
@@ -5,7 +6,7 @@
 </p>
 ![Uploading image.png…]()
 
-<!-- BADGES -->
+BADGES 
 <p align="center">
     <picture>
       <source
@@ -35,3 +36,5 @@
     <img src="https://skillicons.dev/icons?i=git,c,js,tailwind,python,java,linux,vscode,bash,md&perline=15" />
   </a>
 </p>
+
+-->
