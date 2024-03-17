@@ -1,28 +1,16 @@
+<h1 align="center">👋 محمد أبو شلباية </h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-<!-- 
-![image](https://github.com/mabushelbaia/mabushelbaia/assets/47891125/2073b986-c690-4ea8-8f3e-b9a9c4c66b98)
-<!-- 
-<p align="center">
-  <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="932" height="200">
-</p>
-![Uploading image.png…]()
- <a href="https://monkeytype.com/profile/mabushelbaia">
-   <img src="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
- </a>
 <p align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=github_dark&title_color=58a6ef&icon_color=58a6ef&hide_border=true&"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=default&title_color=58a6ef&icon_color=58a6ef&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=blueberry&title_color=58a6ef&icon_color=58a6ef&hide_border=true&rank_icon=percentile"
+     <source
+        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=blueberry&title_color=58a6ef&icon_color=58a6ef&hide_border=true&rank_icon=percentile"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
@@ -39,10 +27,8 @@
 </p>
 
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,js,tailwind,python,java,linux,vscode,bash,md&perline=15" />
   </a>
 </p>
--->
