@@ -8,7 +8,7 @@
 <p align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=blueberry&title_color=58a6ef&icon_color=58a6ef&hide_border=true&rank_icon=percentile"
+        srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=blueberry&title_color=58a6ef&icon_color=58a6ef&hide_border=true&rank_icon=percentile" />
      <source
         srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=blueberry&title_color=58a6ef&icon_color=58a6ef&hide_border=true&rank_icon=percentile"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
