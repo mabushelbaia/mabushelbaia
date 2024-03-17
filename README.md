@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mabushelbaia/mabushelbaia/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- 
 ![image](https://github.com/mabushelbaia/mabushelbaia/assets/47891125/2073b986-c690-4ea8-8f3e-b9a9c4c66b98)
 <!-- 
