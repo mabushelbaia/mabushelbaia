@@ -12,6 +12,7 @@ Computer Engineering student in his final semester at Birzeit University. Curren
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
   <a href="https://github.com/mabushelbaia?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mabushelbaia?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    
 
 </p>
 
@@ -24,8 +25,7 @@ Computer Engineering student in his final semester at Birzeit University. Curren
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,django,tailwind,markdown,git,latex,flask,vscode,bash,linux,html,js,css&perline=16" />
-
+    <img src="https://skillicons.dev/icons?i=git,c,django,html,css,js,vscode,linux,python,java,tailwind,latex,vscode,flask,bash">
 </p>
 
 
