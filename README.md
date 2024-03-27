@@ -5,7 +5,7 @@
 Computer Engineering student in his final semester at Birzeit University. Currently training to become a full-stack developer, DevOps engineer, and Flutter developer. Interested in microcontrollers and computer networks. Learn more about me on my [website](https://mabushelbaia.me).
 
 <p align="left">
-  <a href="https://mabushelbia.me">
+  <a href="https://mabushelbaia.me">
     <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
   <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers">
