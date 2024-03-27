@@ -17,6 +17,23 @@ Computer Engineering student in his final semester at Birzeit University. Curren
 
 ---
 
+
+### 💻 Languages and Tools
+
+
+<p align="left">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,django,tailwind,markdown,git,latex,flask,vscode,bash,linux,html,js,css&perline=16" />
+
+</p>
+
+
+
+
+#
+
+
 <p align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=vue-dark&icon_color=58a6ef&hide_border=true&rank_icon=percentile" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
@@ -30,13 +47,6 @@ Computer Engineering student in his final semester at Birzeit University. Curren
 </p>
 
 
-
-<p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,tailwind,python,js,linux,bash,github,git,vscode,markdown&perline=15" />
-
-</p>
 
 
 
