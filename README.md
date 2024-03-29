@@ -1,8 +1,8 @@
 # 👋 Mohammad Abu-Shelbaia [ محمد أبو شلباية]
 
-```Computer Engineer @Birzeit University | Trainee```
+```Computer Engineer``` ```Trainee```
 
-Computer Engineering student in his final semester at Birzeit University. Currently training to become a full-stack developer, DevOps engineer, and Flutter developer. Interested in microcontrollers and computer networks. Learn more about me on my [website](https://mabushelbaia.me).
+Computer Engineering student in his final semester at Birzeit University. I am training to become a full-stack developer, DevOps engineer, and Flutter developer. I am interested in microcontrollers and computer networks. Learn more about me on my [website](https://mabushelbaia.me).
 
 <p align="left">
   <a href="https://mabushelbaia.me">
