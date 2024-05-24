@@ -26,7 +26,7 @@ Computer Engineering student in my final semester at Birzeit University. I am cu
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,django,html,css,js,vscode,linux,python,java,tailwind,latex,vscode,flask,bash">
+    <img src="https://skillicons.dev/icons?i=git,python,django,tailwind,html,css,js,vscode,linux,c,java,latex,vscode,flask,bash">
 </p>
 
 
