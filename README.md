@@ -5,13 +5,13 @@
 Computer Engineering student in my final semester at Birzeit University. I am currently training to become a full-stack developer. Interested in microcontrollers and computer networks. Learn more at [_**mabushelbaia.me**_](https://mabushelbaia.me).
 
 <p align="left">
-  <a href="https://mabushelbaia.me">
+  <a href="https://mabushelbaia.me" target="_blank">
     <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=71122"/>
     </a>
-  <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers">
+  <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers" target="_blank">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=71122"/>
   </a>
-  <a href="https://github.com/mabushelbaia?tab=followers">
+  <a href="https://github.com/mabushelbaia?tab=followers" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mabushelbaia?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     
 
