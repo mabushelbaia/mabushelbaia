@@ -37,7 +37,7 @@ Learn more at [_**mabushelbaia.me**_](https://mabushelbaia.me).
 
 <p align="center">
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=vue-dark&icon_color=58a6ef&hide_border=true&rank_icon=percentile" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=vue-dark&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
     <picture>
