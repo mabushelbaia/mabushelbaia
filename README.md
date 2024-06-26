@@ -1,8 +1,6 @@
 ## 👋 Mohammad Abu-Shelbaia [ محمد أبو شلباية ]
 
-```Computer Engineer``` 
-
-Learn more at [_**mabushelbaia.me**_](https://mabushelbaia.me).
+```Computer Engineer```  ```Backend Developer```
 
 <p align="left">
   <a href="https://mabushelbaia.me" target="_blank">
