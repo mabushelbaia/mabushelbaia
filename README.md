@@ -32,12 +32,13 @@
 
 <p align="center">
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&theme=vue-dark&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=721222" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue-dark&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10" />
     </picture>
 </p>
