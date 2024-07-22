@@ -32,8 +32,8 @@
 
 <p align="center">
     <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=true&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
     <picture>
