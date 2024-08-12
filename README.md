@@ -4,14 +4,14 @@
 
 <p align="left">
   <a href="https://mabushelbaia.me" target="_blank">
-    <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=71122"/>
+    <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=3600"/>
     </a>
-  <a href="https://leetcode.com/mabushelbaia/" target="_blank"> <img alt="LeetCode" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&cache_seconds=86400"/> </a>
+  <a href="https://leetcode.com/mabushelbaia/" target="_blank"> <img alt="LeetCode" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&cache_seconds=3600"/> </a>
   <a href="https://www.linkedin.com/in/mabushelbaia/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=86400"/>
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=3600"/>
   </a>
   <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers" target="_blank">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=71122"/>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=3600"/>
   </a>
   <a href="https://github.com/mabushelbaia?tab=followers" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mabushelbaia?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -37,9 +37,9 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&&langs_count=10&theme=vue&text_color=ffffff&bg_color=00000000&hide_border=true&cache_seconds=721222" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&text_color=ffffff&bg_color=00000000&hide_border=true&cache_seconds=3600&hide=c,css,html" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&theme=vue&bg_color=00000000&hide_border=true&cache_seconds=3600&hide=c,css,html" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabushelbaia&layout=compact&langs_count=10&hide=c,css,html" />
     </picture>
 </p>
 
