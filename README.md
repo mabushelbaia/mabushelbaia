@@ -3,7 +3,7 @@
 `Computer Engineer` `Backend Developer`
 
 <p align="left">
-  <a href="https://mabushelbaia.me" target="_blank">
+  <a href="https://mabushelbaia.github.io/" target="_blank">
     <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=3600"/>
     </a>
   <a href="https://leetcode.com/mabushelbaia/" target="_blank"> <img alt="LeetCode" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&cache_seconds=3600"/> </a>
